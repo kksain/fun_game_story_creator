@@ -15,15 +15,16 @@ This API allows users to register, log in, create stories, contribute to stories
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/storytelling-api.git
-    cd storytelling-api
+    git clone https://github.com/kksain/fun_game_story_creator.git
+    cd story_creator
     ```
 
 2. **Create and activate a virtual environment:**
 
     ```bash
     python3 -m venv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+    source venv/bin/activate
+    # On Windows use `venv\Scripts\activate`
     ```
 
 3. **Install the required packages:**
